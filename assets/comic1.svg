@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 900">
+<rect width="700" height="900" rx="40" fill="#f5aaa2"/>
+<circle cx="520" cy="210" r="125" fill="#f7d9d5"/>
+<path d="M110 610 Q350 350 590 610 L590 790 Q350 650 110 790Z" fill="#e88f88"/>
+<circle cx="350" cy="350" r="125" fill="#f8f1ed"/>
+<path d="M260 350 Q350 270 440 350 Q410 470 350 500 Q290 470 260 350Z" fill="#111"/>
+<circle cx="310" cy="350" r="18" fill="#f5aaa2"/>
+<circle cx="390" cy="350" r="18" fill="#f5aaa2"/>
+<text x="55" y="95" font-family="Arial" font-size="52" font-weight="700" fill="#111">ПУТЬ</text>
+<text x="55" y="150" font-family="Arial" font-size="52" font-weight="700" fill="#111">ГЕРОЯ</text>
+<text x="55" y="845" font-family="Arial" font-size="24" fill="#111">КОМИКС • №01</text>
+</svg>

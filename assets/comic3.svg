@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 900">
+<rect width="700" height="900" rx="40" fill="#f7d9d5"/>
+<circle cx="350" cy="455" r="190" fill="#f5aaa2"/>
+<path d="M170 455 Q350 170 530 455" fill="none" stroke="#111" stroke-width="24"/>
+<path d="M205 520 Q350 640 495 520" fill="none" stroke="#111" stroke-width="18"/>
+<circle cx="290" cy="430" r="28" fill="#f8f1ed"/>
+<circle cx="410" cy="430" r="28" fill="#f8f1ed"/>
+<circle cx="290" cy="430" r="10" fill="#111"/>
+<circle cx="410" cy="430" r="10" fill="#111"/>
+<path d="M300 520 Q350 550 400 520" fill="none" stroke="#111" stroke-width="12"/>
+<text x="55" y="105" font-family="Arial" font-size="50" font-weight="700" fill="#111">НОВАЯ</text>
+<text x="55" y="160" font-family="Arial" font-size="50" font-weight="700" fill="#111">ЭРА</text>
+<text x="55" y="845" font-family="Arial" font-size="24" fill="#111">КОМИКС • №12</text>
+</svg>
